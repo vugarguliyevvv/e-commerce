@@ -1,0 +1,57 @@
+﻿@model Sale
+@{
+    ViewData["Title"] = "Sale";
+}
+
+<section id="chekout">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="heading mb-5">
+                    <h2>CheckOut details</h2>
+                </div>
+            </div>
+
+            <div class="form">
+                <form id="checkoutForm" method="post">
+                    <div class="row">
+                        <div class="chekout-guider">
+                            <div class="col-lg-10 col-md-12 col-sm-12">
+                                <div class="form-group">
+                                    <input asp-for="@Model.FullName" type="text" class="form-control name" placeholder="Full Name *">
+                                    <span asp-validation-for="@Model.FullName" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-lg-10 col-md-12 col-sm-12">
+                                <div class="form-group">
+                                    <input asp-for="@Model.Address" type="text" class="form-control address" placeholder="Address *">
+                                    <span asp-validation-for="@Model.Address" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-lg-10 col-md-12 col-sm-12">
+                                <div class="form-group">
+                                    <input asp-for="@Model.Email" type="text" class="form-control email" placeholder="E-mail *">
+                                    <span asp-validation-for="@Model.Email" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-lg-10 col-md-12 col-sm-12">
+                                <div class="form-group">
+                                    <input asp-for="@Model.Phone" type="tel" class="form-control phone" placeholder="Phone *">
+                                    <span asp-validation-for="@Model.Phone" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <button type="submit" class="btn theme-btn--dark1 btn--lg mb-5">Sifariş et</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+

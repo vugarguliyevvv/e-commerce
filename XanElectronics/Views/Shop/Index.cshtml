@@ -1,0 +1,237 @@
+﻿@model ShopVM
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- breadcrumb-section start -->
+<nav class="breadcrumb-section theme1 bg-lighten2 pt-110 pb-110">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-title text-center mb-15">
+                    <h2 class="title text-dark text-capitalize">Shop</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+<!-- breadcrumb-section end -->
+<!-- product tab start -->
+<input type="hidden" id="pageName" value="shop" />
+<div class="product-tab bg-white pt-80 pb-50">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 mb-30">
+                <div class="grid-nav-wraper bg-lighten2 mb-30">
+                    <div class="row align-items-center">
+                        <div class="col-12 col-md-6 mb-3 mb-md-0">
+                            <nav class="shop-grid-nav">
+                                <ul class="nav nav-pills align-items-center" id="pills-tab" role="tablist">
+                                    <li class="nav-item">
+                                        <a class="nav-link active" id="pills-home-tab" data-toggle="pill"
+                                           href="#pills-home" role="tab" aria-controls="pills-home"
+                                           aria-selected="true">
+                                            <i class="fa fa-th"></i>
+
+                                        </a>
+                                    </li>
+                                    <li class="nav-item mr-0">
+                                        <a class="nav-link" id="pills-profile-tab" data-toggle="pill"
+                                           href="#pills-profile" role="tab" aria-controls="pills-profile"
+                                           aria-selected="false"><i class="fa fa-list"></i></a>
+                                    </li>
+                                    @*<li> <span class="total-products text-capitalize">There are 13 products.</span></li>*@
+                                </ul>
+                            </nav>
+                        </div>
+                        <div class="col-12 col-md-6 position-relative">
+                            <div class="shop-grid-button d-flex align-items-center">
+                                @*<span class="sort-by">Sort by:</span>
+                                <button class="btn-dropdown rounded d-flex justify-content-between" type="button"
+                                        id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true"
+                                        aria-expanded="false">
+                                    Relevance <span class="ion-android-arrow-dropdown"></span>
+                                </button>
+                                <div class="dropdown-menu shop-grid-menu" aria-labelledby="dropdownMenuButton">
+                                    <a class="dropdown-item" href="#">Relevance</a>
+                                    <a class="dropdown-item" href="#"> Name, A to Z</a>
+                                    <a class="dropdown-item" href="#"> Name, Z to A</a>
+                                    <a class="dropdown-item" href="#"> Price, low to high</a>
+                                    <a class="dropdown-item" href="#"> Price, high to low</a>
+                                </div>*@
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- product-tab-nav end -->
+                <div class="tab-content" id="pills-tabContent">
+                    <div class="tab-pane fade show active" id="pills-home" role="tabpanel"
+                         aria-labelledby="pills-home-tab">
+                        <div class="row grid-view theme1" id="productList">
+                            @foreach (var item in Model.Products)
+                            {
+                                <div class="col-sm-6 col-lg-4 col-xl-3 mb-30">
+                                    <div class="card product-card">
+                                        <div class="card-body">
+                                            <div class="product-thumbnail position-relative">
+                                                @if (item.DisCountRate > 0)
+                                                {
+                                                    <span class="badge badge-success top-left">-@item.DisCountRate %</span>
+                                                }
+                                                @if (item.IsNew)
+                                                {
+                                                    <span class="badge badge-danger top-right">New</span>
+                                                }
+                                                <a asp-controller="Shop" asp-action="Detail" asp-route-id="@item.Id">
+                                                    @foreach (var prImage in item.ProductImages.Take(1))
+                                                    {
+                                                        <img class="first-img" src="~/assets/img/product/@prImage.ImageUrl" alt="thumbnail">
+                                                    }
+
+                                                </a>
+                                                <!-- product links -->
+                                                @*<ul class="product-links d-flex justify-content-center">
+                                                    <li>
+                                                        <a href="wishlist.html">
+                                                            <span data-toggle="tooltip" data-placement="bottom"
+                                                                  title="add to wishlist" class="icon-heart"> </span>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#" data-toggle="modal" data-target="#compare">
+                                                            <span data-toggle="tooltip" data-placement="bottom"
+                                                                  title="Add to compare" class="icon-shuffle"></span>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#" data-toggle="modal" data-target="#quick-view">
+                                                            <span data-toggle="tooltip" data-placement="bottom"
+                                                                  title="Quick view" class="icon-magnifier"></span>
+                                                        </a>
+                                                    </li>
+                                                </ul>*@
+                                                <!-- product links end-->
+                                            </div>
+                                            <div class="product-desc py-0">
+                                                <h3 class="title">
+                                                    <a asp-controller="Shop" asp-action="Detail" asp-route-id="@item.Id">
+                                                        @item.Name
+                                                    </a>
+                                                </h3>
+                                                <div class="star-rating">
+                                                    @for (int i = 0; i < item.Star; i++)
+                                                    {
+                                                        <span class="ion-ios-star"></span>
+                                                    }
+                                                </div>
+                                                <div class="d-flex align-items-center justify-content-between">
+
+                                                    @if (item.DisCountRate > 0)
+                                                    {
+                                                        <h6 class="product-price">
+                                                            <del class="del">$ @item.Price.ToString("N2")</del>
+                                                            <span class="onsale">$ @item.ResultPrice.ToString("N2")</span>
+                                                        </h6>
+                                                    }
+                                                    else
+                                                    {
+                                                        <h6 class="product-price">$ @item.Price.ToString("N2")</h6>
+                                                    }
+                                                    <button class="pro-btn">
+                                                        <i class="icon-basket addToBasket" data-id="@item.Id"></i>
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- product-list End -->
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav class="pagination-section mt-30">
+                            <div class="row align-items-center">
+                                <div class="col-12">
+                                    <ul class="pagination justify-content-center">
+                                        <li class="page-item paginationItems">
+                                            <i class="fas fa-angle-double-left fa-lg" id="previous" style="cursor:pointer"></i>
+                                        </li>
+                                        @for (int i = 1; i <= ViewBag.PageCount; i++)
+                                        {
+                                            if (i < 5)
+                                            {
+                                                <li class="page-item paginationItems"><a class="page-link" data-page="@i">@i</a></li>
+                                            }
+                                            else
+                                            {
+                                                <li class="page-item paginationItems d-none"><a class="page-link" data-page="@i">@i</a></li>
+                                            }
+                                        }
+                                            <li class="page-item paginationItems">
+                                                <i class="fas fa-angle-double-right fa-lg" id="next" style="cursor:pointer"></i>
+                                            </li>
+                                    </ul>
+                                    <input type="hidden" id="pageCount" value="@ViewBag.PageCount" />
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 mb-30 order-last">
+                <aside class="left-sidebar theme1">
+                    <!--<div class="search-filter">
+                        <form action="#">
+                            <div class="check-box-inner mt-10">
+                                <h4 class="title">Filter By</h4>
+                                <h4 class="sub-title pt-10">Categories</h4>
+                                <form method="get">
+                                    @foreach (var category in Model.Categories)
+                                    {
+                                        <div class="filter-check-box">
+                                            <input type="checkbox" id="20820" 
+                                                   data-id="@category.Id" onchange="this.form.submit()">
+                                            <label for="20820">@category.Name <span>(@category.ProductCount)</span></label>
+                                        </div>
+                                    }                              
+                                </form>
+                            </div>-->
+                            <!-- check-box-inner -->
+                            <!--<div class="check-box-inner mt-10">
+                                <h4 class="sub-title">Price</h4>
+                                <div class="price-filter mt-10">
+                                    <div class="price-slider-amount">
+                                        <input type="text" id="amount" name="price" readonly
+                                               placeholder="Add Your Price" />
+                                    </div>
+                                    <div id="slider-range"></div>
+                                </div>
+                            </div>
+                            <div class="check-box-inner mt-10">
+                                <h4 class="sub-title">Brand</h4>
+                                @foreach (var brand in Model.Brands)
+                                {
+                                    <div class="filter-check-box">
+                                        <input type="checkbox" id="20824">
+                                        <label for="20824">@brand.Name</label>
+                                    </div>
+                                }
+                            </div>
+                        </form>
+                    </div>-->
+                    <!--second banner start-->
+                    @*<div class="banner hover-animation position-relative overflow-hidden">
+                        <a href="shop-grid-4-column.html" class="d-block">
+                            <img src="~/assets/img/banner/2.jpg" alt="img">
+                        </a>
+                    </div>*@
+                    <!--second banner end-->
+                </aside>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- product tab end -->

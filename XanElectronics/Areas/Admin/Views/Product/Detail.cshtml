@@ -1,0 +1,152 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "_adminLayout";
+}
+<div class="row">
+        @foreach (var item in Model.ProductImages)
+        {
+            <div class="mr-2 mt-3">
+                <img src="~/assets/img/product/@item.ImageUrl" width="400" height="200" />
+            </div>
+        }
+
+</div>
+
+<div class="row mt-5">
+    <div class="col-2">
+        <h6>Ad</h6>
+    </div>
+    <div class="col-4">
+        <p> @Model.Name</p>
+    </div>
+</div>
+
+<div class="row mt-2">
+    <div class="col-2">
+        <h6>Yeni</h6>
+    </div>
+    <div class="col-4">
+        <p> @Model.IsNew</p>
+    </div>
+</div>
+
+<div class="row mt-2">
+    <div class="col-2">
+        <h6>Seçilmiş</h6>
+    </div>
+    <div class="col-4">
+        <p> @Model.IsFeatured</p>
+    </div>
+</div>
+
+<div class="row mt-2">
+    <div class="col-2">
+        <h6>Orginal</h6>
+    </div>
+    <div class="col-4">
+        <p> @Model.IsOriginal</p>
+    </div>
+</div>
+
+<div class="row mt-2">
+    <div class="col-2">
+        <h6>Kateqoriya</h6>
+    </div>
+    <div class="col-4">
+        <p> @Model.Category.Name</p>
+    </div>
+</div>
+
+<div class="row mt-2">
+    <div class="col-2">
+        <h6>Brand</h6>
+    </div>
+    <div class="col-4">
+        <p> @Model.Brand.Name</p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-2">
+        <h6>Qiymət</h6>
+    </div>
+    <div class="col-4">
+        <p> @Model.Price.ToString("C2") Azn</p>
+    </div>
+</div>
+<div class="row mt-2">
+    <div class="col-2">
+        <h6>Endirim</h6>
+    </div>
+    <div class="col-4">
+        <p> @Model.DisCountRate %</p>
+    </div>
+</div>
+<div class="row mt-2">
+    <div class="col-2">
+        <h6>YekunQiymət</h6>
+    </div>
+    <div class="col-4">
+        <p> @Model.ResultPrice.ToString("C2") Azn</p>
+    </div>
+</div>
+
+<div class="row mt-2">
+    <div class="col-2">
+        <h6>Qiymətləndirmə</h6>
+    </div>
+    <div class="col-4">
+        <p> @Model.Star</p>
+    </div>
+</div>
+
+<div class="row mt-2">
+    <div class="col-2">
+        <h6>Ölçü</h6>
+    </div>
+    <div class="col-4">
+        <p> @Model.Size</p>
+    </div>
+</div>
+
+<div class="row mt-2">
+    <div class="col-2">
+        <h6>Kod</h6>
+    </div>
+    <div class="col-4">
+        <p> @Model.Code</p>
+    </div>
+</div>
+
+<div class="row mt-2">
+    <div class="col-2">
+        <h6>Say</h6>
+    </div>
+    <div class="col-4">
+        <p> @Model.Count</p>
+    </div>
+</div>
+
+<div class="row mt-2">
+    <div class="col-2">
+        <h6>Rəng</h6>
+    </div>
+    <div class="col-4">
+        <p> @Model.Color</p>
+    </div>
+</div>
+
+<div class="row mt-2">
+    <div class="col-2">
+        <h6>Məlumat</h6>
+    </div>
+    <div class="col-4">
+        <p> @Model.LongDescription</p>
+    </div>
+</div>
+
+<div class="row mt-3">
+    <a class="btn btn-dark" asp-action="Index">Go Back</a>
+</div>
+
+

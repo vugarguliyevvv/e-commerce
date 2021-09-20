@@ -1,0 +1,542 @@
+﻿@model HomeVM
+@{
+    ViewData["Title"] = "Index";
+    int count = 0;
+}
+
+<!-- main slider start -->
+<section class="bg-light position-relative">
+    <div class="main-slider dots-style theme3">
+        <!-- slider-item end -->
+        @foreach (var item in Model.Sliders)
+        {
+        <div class="slider-item bg-img bg-img8" style="background-image: url(/assets/img/slider/@item.Image)">
+            <div class="container">
+                <div class="row align-items-center slider-height">
+                    <div class="col-12">
+                        <div class="slider-content d-inline-block text-center">
+                            <p class="text text-lighten text-uppercase animated mb-25" data-animation-in="fadeInLeft">
+                                @item.Title
+                            </p>
+                            <h4 class="title text-dark animated text-capitalize mb-25" data-animation-in="fadeInRight"
+                                data-delay-in="1">
+                                @item.Description
+                            </h4>
+                            @*<a href="shop-grid-4-column.html"
+                        class="btn theme--btn3 btn--lg text-uppercase rounded-5 animated mt-45 mt-sm-25"
+                        data-animation-in="zoomIn" data-delay-in="3">Skin Care Solution</a>*@
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        }
+        <!-- slider-item end -->
+    </div>
+    <!-- slick-progress -->
+    <div class="slick-progress">
+        <span></span>
+    </div>
+    <!-- slick-progress end-->
+</section>
+<!-- main slider end -->
+<!-- common banner  start -->
+<div class="common-banner bg-white pt-80">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model.Banners)
+            {
+                <div class="col-md-6 mb-30">
+                    <div class="banner-thumb">
+                        <img src="~/assets/img/banner/@item.Image" alt="banner-thumb-naile">
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+<!-- common banner  end -->
+<!-- product tab start -->
+<input type="hidden" id="pageName" value="home" />
+<section class="product-tab theme3 bg-white pt-50 pb-80">
+    <div class="container">
+        <div class="product-tab-nav mb-35">
+            <div class="row align-items-center">
+                <div class="col-12">
+                    <div class="section-title text-center mb-30">
+                        <h2 class="title text-dark text-capitalize">Our products</h2>
+                        <p class="text mt-10">Add our products to weekly line up</p>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <nav class="product-tab-menu">
+                        <ul class="nav nav-pills justify-content-center" id="pills-tab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home"
+                                   role="tab" aria-controls="pills-home" aria-selected="true">Phone</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile"
+                                   role="tab" aria-controls="pills-profile" aria-selected="false">Smart Watch</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact"
+                                   role="tab" aria-controls="pills-contact" aria-selected="false">Airphone</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        <!-- product-tab-nav end -->
+        <div class="row">
+            <div class="col-12">
+                <div class="tab-content" id="pills-tabContent">
+                    <!-- first tab-pane -->
+                    <div class="tab-pane fade show active" id="pills-home" role="tabpanel"
+                         aria-labelledby="pills-home-tab">
+                        <div class="product-slider-init slick-nav">
+                            @foreach (var item in Model.Products.Where(x=>x.Category.Name.ToLower() == "phone"))
+                            {
+                                <div class="slider-item">
+                                    <div class="card product-card">
+                                        <div class="card-body p-0">
+                                            <div class="media flex-column">
+                                                <div class="product-thumbnail position-relative">
+                                                    @if (item.DisCountRate > 0)
+                                                    {
+                                                        <span class="badge badge-success top-left">-@item.DisCountRate</span>
+                                                    }
+                                                    @if (item.IsNew)
+                                                    {
+                                                        <span class="badge badge-danger top-right">New</span>
+                                                    }
+                                                    <a asp-controller="Shop" asp-action="Detail" asp-route-id="@item.Id">
+                                                        <img class="first-img" src="~/assets/img/product/@item.ProductImages.ElementAt(0).ImageUrl"
+                                                             alt="thumbnail">
+                                                    </a>
+                                                    
+                                                </div>
+                                                <div class="media-body">
+                                                    <div class="product-desc">
+                                                        <h3 class="title">
+                                                            <a asp-controller="Shop" asp-action="Detail" asp-route-id="@item.Id">
+                                                                @item.Name
+                                                            </a>
+                                                        </h3>
+                                                        <div class="star-rating">
+                                                            @for (int i = 1; i <= item.Star; i++)
+                                                            {
+                                                                <span class="ion-ios-star"></span>
+                                                            }
+
+                                                        </div>
+                                                        <div class="d-flex align-items-center justify-content-between">
+                                                            @if (item.DisCountRate > 0)
+                                                            {
+                                                                <h6 class="product-price">
+                                                                    <del class="del">@item.Price.ToString("C2")</del>
+                                                                    <span class="onsale">@item.ResultPrice.ToString("C2")</span>
+                                                                </h6>
+                                                            }
+                                                            else
+                                                            {
+                                                                <h6 class="product-price">@item.Price.ToString("C2")</h6>
+                                                            }
+                                                            <button class="pro-btn">
+                                                                <i class="icon-basket addToBasket" data-id="@item.Id"></i>
+                                                            </button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            }
+                        </div>
+                    </div>
+                    <!-- second tab-pane -->
+                    <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
+                        <div class="product-slider-init slick-nav">
+                            @foreach (var item in Model.Products.Where(x=>x.Category.Name.ToLower() == "smart watch"))
+                            {
+                            <div class="slider-item">
+                                <div class="card product-card">
+                                    <div class="card-body p-0">
+                                        <div class="media flex-column">
+                                            <div class="product-thumbnail position-relative">
+                                                @if (item.DisCountRate > 0)
+                                                {
+                                                    <span class="badge badge-success top-left">-@item.DisCountRate</span>
+                                                }
+                                                @if (item.IsNew)
+                                                {
+                                                    <span class="badge badge-danger top-right">New</span>
+                                                }
+                                                <a asp-controller="Shop" asp-action="Detail" asp-route-id="@item.Id">
+                                                    <img class="first-img" src="~/assets/img/product/@item.ProductImages.ElementAt(0).ImageUrl"
+                                                         alt="thumbnail">
+                                                </a>
+                                                
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="product-desc">
+                                                    <h3 class="title">
+                                                        <a asp-controller="Shop" asp-action="Detail" asp-route-id="@item.Id">
+                                                            @item.Name
+                                                        </a>
+                                                    </h3>
+                                                    <div class="star-rating">
+                                                        @for (int i = 1; i <= item.Star; i++)
+                                                        {
+                                                            <span class="ion-ios-star"></span>
+                                                        }
+
+                                                    </div>
+                                                    <div class="d-flex align-items-center justify-content-between">
+                                                        @if (item.DisCountRate > 0)
+                                                        {
+                                                            <h6 class="product-price">
+                                                                <del class="del">@item.Price.ToString("C2")</del>
+                                                                <span class="onsale">@item.ResultPrice.ToString("C2")</span>
+                                                            </h6>
+                                                        }
+                                                        else
+                                                        {
+                                                            <h6 class="product-price">@item.Price.ToString("C2")</h6>
+                                                        }
+                                                        <button class="pro-btn">
+                                                            <i class="icon-basket addToBasket" data-id="@item.Id"></i>
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+	                        }
+                        </div>
+                    </div>
+                    <!-- third tab-pane -->
+                    <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
+                        <div class="product-slider-init slick-nav">
+                            @foreach (var item in Model.Products.Where(x=>x.Category.Name.ToLower() == "airphone"))
+                            {
+                            <div class="slider-item">
+                                <div class="card product-card">
+                                    <div class="card-body p-0">
+                                        <div class="media flex-column">
+                                            <div class="product-thumbnail position-relative">
+                                                @if (item.DisCountRate > 0)
+                                                {
+                                                    <span class="badge badge-success top-left">-@item.DisCountRate</span>
+                                                }
+                                                @if (item.IsNew)
+                                                {
+                                                    <span class="badge badge-danger top-right">New</span>
+                                                }
+                                                <a asp-controller="Shop" asp-action="Detail" asp-route-id="@item.Id">
+                                                    <img class="first-img" src="~/assets/img/product/@item.ProductImages.ElementAt(0).ImageUrl"
+                                                         alt="thumbnail">
+                                                </a>
+                                                <!-- product links -->
+                                                @*<ul class="product-links d-flex justify-content-center">
+                                                    <li>
+                                                        <a href="wishlist.html">
+                                                            <span data-toggle="tooltip" data-placement="bottom"
+                                                                  title="add to wishlist" class="icon-heart"> </span>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#" data-toggle="modal" data-target="#compare">
+                                                            <span data-toggle="tooltip" data-placement="bottom"
+                                                                  title="Add to compare" class="icon-shuffle"></span>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#" data-toggle="modal" data-target="#quick-view">
+                                                            <span data-toggle="tooltip" data-placement="bottom"
+                                                                  title="Quick view" class="icon-magnifier"></span>
+                                                        </a>
+                                                    </li>
+                                                </ul>*@
+                                                <!-- product links end-->
+                                            </div>
+                                            <div class="media-body">
+                                                <div class="product-desc">
+                                                    <h3 class="title">
+                                                        <a asp-controller="Shop" asp-action="Detail" asp-route-id="@item.Id">
+                                                            @item.Name
+                                                        </a>
+                                                    </h3>
+                                                    <div class="star-rating">
+                                                        @for (int i = 1; i <= item.Star; i++)
+                                                        {
+                                                            <span class="ion-ios-star"></span>
+                                                        }
+
+                                                    </div>
+                                                    <div class="d-flex align-items-center justify-content-between">
+                                                        @if (item.DisCountRate > 0)
+                                                        {
+                                                            <h6 class="product-price">
+                                                                <del class="del">@item.Price.ToString("C2")</del>
+                                                                <span class="onsale">@item.ResultPrice.ToString("C2")</span>
+                                                            </h6>
+                                                        }
+                                                        else
+                                                        {
+                                                            <h6 class="product-price">@item.Price.ToString("C2")</h6>
+                                                        }
+                                                        <button class="pro-btn">
+                                                            <i class="icon-basket addToBasket" data-id="@item.Id"></i>
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- product tab end -->
+<!-- new arrival section start -->
+<section class="theme3 bg-white pb-80">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-title text-center mb-30">
+                    <h2 class="title text-dark text-capitalize">New Arrivals</h2>
+                    <p class="text mt-10">Add new products to weekly line up</p>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="product-slider-init slick-nav">
+                    @foreach (var item in Model.Products.Where(x => x.IsNew))
+                    {
+                        <div class="slider-item">
+                            <div class="card product-card">
+                                <div class="card-body p-0">
+                                    <div class="media flex-column">
+                                        <div class="product-thumbnail position-relative">
+                                            @if (item.DisCountRate > 0)
+                                            {
+                                                <span class="badge badge-success top-left">-@item.DisCountRate</span>
+                                            }
+                                            
+                                            <span class="badge badge-danger top-right">New</span>
+                                            
+                                            <a asp-controller="Shop" asp-action="Detail" asp-route-id="@item.Id">
+                                                <img class="first-img" src="~/assets/img/product/@item.ProductImages.ElementAt(0).ImageUrl"
+                                                     alt="thumbnail">
+                                            </a>
+                                        </div>
+                                        <div class="media-body">
+                                            <div class="product-desc">
+                                                <h3 class="title">
+                                                    <a asp-controller="Shop" asp-action="Detail" asp-route-id="@item.Id">
+                                                        @item.Name
+                                                    </a>
+                                                </h3>
+                                                <div class="star-rating">
+                                                    @for (int i = 1; i <= item.Star; i++)
+                                                    {
+                                                        <span class="ion-ios-star"></span>
+                                                    }
+
+                                                </div>
+                                                <div class="d-flex align-items-center justify-content-between">
+                                                    @if (item.DisCountRate > 0)
+                                                    {
+                                                        <h6 class="product-price">
+                                                            <del class="del">@item.Price.ToString("C2")</del>
+                                                            <span class="onsale">@item.ResultPrice.ToString("C2")</span>
+                                                        </h6>
+                                                    }
+                                                    else
+                                                    {
+                                                        <h6 class="product-price">@item.Price.ToString("C2")</h6>
+                                                    }
+                                                    <button class="pro-btn">
+                                                        <i class="icon-basket addToBasket" data-id="@item.Id"></i>
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- new arrival section end -->
+<!-- popular-section  start -->
+<div class="popular-section bg-lighten theme3 bg-white pt-80 pb-80">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-title text-center mb-30">
+                    <h2 class="title text-dark text-capitalize">Popular Categories</h2>
+                    <p class="text mt-10">
+                        Some of our popular categories
+                    </p>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="popular-slider-init dots-style">
+                    @foreach (var item in Model.Categories)
+                    {
+                        <div class="slider-item">
+                            <div class="card popular-card zoom-in">
+                                <div class="card-body">
+                                        <img class="d-block mx-auto"
+                                             src="~/assets/img/category/@item.ImageUrl" alt="img">
+                                    <h3 class="popular-title">
+                                         @item.Name
+                                            
+                                         <span>(@item.ProductCount)</span>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- popular-section  end -->
+<!-- brand slider start -->
+<div class="brand-slider-section theme3 bg-white py-60">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="brand-init theme2 slick-nav-brand">
+                    @foreach (var item in Model.Brands)
+	                {
+                        <div class="slider-item">
+                            <div class="single-brand">
+                                <img src="~/assets/img/brand/@item.ImageUrl" alt="brand-thumb-nail">
+                            </div>
+                        </div>
+	                }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- brand slider end -->
+<!-- featured  slider start-->
+<section class="featured-slider theme3 pb-80">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-title">
+                    <h2 class="title text-dark text-capitalize">Featured products </h2>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="featured-init slick-nav">
+                    @foreach (var item in Model.Products.Where(x => x.IsFeatured))
+                    {
+                        if (count == 0)
+                        {
+                            @Html.Raw("<div class='slider-item'><div class='product-list mb-3'>")
+                        }
+                        if (count % 2 == 0 && count != 0)
+                        {
+                            @Html.Raw("</div></div>")
+                            @Html.Raw("<div class='slider-item'><div class='product-list'>")
+                        }
+                        
+                            
+                                    
+                                <div class="card product-card no-shadow mt-5">
+                                    <div class="card-body p-0">
+                                        <div class="media">
+                                            <div class="product-thumbnail">
+                                                <a asp-controller="Shop" asp-action="Detail" asp-route-id="@item.Id">
+                                                    <img class="first-img" src="~/assets/img/product/@item.ProductImages.ElementAt(0).ImageUrl"
+                                                         alt="thumbnail">
+                                                </a>
+                                            </div>
+                                            <div class="media-body ml-1">
+                                                <div class="product-desc">
+                                                    <h3 class="title">
+                                                        <a asp-controller="Shop" asp-action="Detail" asp-route-id="@item.Id">
+                                                            @item.Name
+                                                        </a>
+                                                    </h3>
+                                                    <div class="star-rating">
+                                                        @for (int i = 1; i <= item.Star; i++)
+                                                        {
+                                                            <span class="ion-ios-star"></span>
+                                                        }
+                                                    </div>
+                                                    <div class="d-flex align-items-center justify-content-between">
+                                                        @if (item.DisCountRate > 0)
+                                                        {
+                                                            <h6 class="product-price">
+                                                                <del class="del">@item.Price.ToString("C2")</del>
+                                                                <span class="onsale">@item.ResultPrice.ToString("C2")</span>
+                                                            </h6>
+                                                        }
+                                                        else
+                                                        {
+                                                            <h6 class="product-price">@item.Price.ToString("C2")</h6>
+                                                        }
+                                                        <button class="pro-btn">
+                                                            <i class="icon-basket addToBasket" data-id="@item.Id"></i>
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                        count++;
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- featured  slider end-->
+<!-- staic media start -->
+<section class="static-media-section theme-bg3 py-45">
+    <div class="container">
+        <div class="static-media-wrap p-0">
+            <div class="row">
+                @foreach (var item in Model.Services)
+                {
+                    <div class="col-lg-3 col-sm-6 py-3">
+                        <div class="d-flex static-media2 flex-column flex-sm-row">
+                            <img class="align-self-center mb-2 mb-sm-0 mr-auto  mr-sm-3" src="~/assets/img/icon/@item.ImageUrl"
+                                 alt="icon">
+                            <div class="media-body">
+                                <h4 class="title text-capitalize text-white">@item.Title</h4>
+                                <p class="text text-white">@item.Description</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</section>
+<!-- staic media end -->

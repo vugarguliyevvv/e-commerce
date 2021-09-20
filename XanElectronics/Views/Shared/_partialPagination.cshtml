@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Product>
+
+@foreach (var item in Model)
+{
+    <div class="col-sm-6 col-lg-4 col-xl-3 mb-30">
+        <div class="card product-card">
+            <div class="card-body">
+                <div class="product-thumbnail position-relative">
+                    @if (item.DisCountRate > 0)
+                    {
+                        <span class="badge badge-success top-left">-@item.DisCountRate %</span>
+                    }
+                    @if (item.IsNew)
+                    {
+                        <span class="badge badge-danger top-right">New</span>
+                    }
+                    <a asp-controller="Shop" asp-action="Detail" asp-route-id="@item.Id">
+                        @foreach (var prImage in item.ProductImages.Take(1))
+                        {
+                            <img class="first-img" src="~/assets/img/product/@prImage.ImageUrl" alt="thumbnail">
+                        }
+
+                    </a>
+                    <!-- product links -->
+                    @*<ul class="product-links d-flex justify-content-center">
+                        <li>
+                            <a href="wishlist.html">
+                                <span data-toggle="tooltip" data-placement="bottom"
+                                      title="add to wishlist" class="icon-heart"> </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#compare">
+                                <span data-toggle="tooltip" data-placement="bottom"
+                                      title="Add to compare" class="icon-shuffle"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#quick-view">
+                                <span data-toggle="tooltip" data-placement="bottom"
+                                      title="Quick view" class="icon-magnifier"></span>
+                            </a>
+                        </li>
+                    </ul>*@
+                    <!-- product links end-->
+                </div>
+                <div class="product-desc py-0">
+                    <h3 class="title">
+                        <a asp-controller="Shop" asp-action="Detail" asp-route-id="@item.Id">
+                            @item.Name
+                        </a>
+                    </h3>
+                    <div class="star-rating">
+                        @for (int i = 0; i < item.Star; i++)
+                        {
+                            <span class="ion-ios-star"></span>
+                        }
+                    </div>
+                    <div class="d-flex align-items-center justify-content-between">
+
+                        @if (item.DisCountRate > 0)
+                        {
+                            <h6 class="product-price">
+                                <del class="del">$ @item.Price.ToString("C2")</del>
+                                <span class="onsale">$ @item.ResultPrice.ToString("C2")</span>
+                            </h6>
+                        }
+                        else
+                        {
+                            <h6 class="product-price">$ @item.Price.ToString("C2")</h6>
+                        }
+                        <button class="pro-btn">
+                            <i class="icon-basket addToBasket" data-id="@item.Id"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- product-list End -->
+    </div>
+}
+

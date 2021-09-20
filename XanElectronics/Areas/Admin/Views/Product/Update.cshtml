@@ -1,0 +1,137 @@
+﻿@model XanElectronics.Dto.ProductUpdateDto
+@{
+    ViewData["Title"] = "Update";
+    Layout = "_adminLayout";
+}
+
+    <div class="row">
+        <div class="col-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Məhsulu Dəyiş</h4>
+                    <form class="forms-sample" method="post" enctype="multipart/form-data">
+                                        
+                        <div class="row">
+                                    
+                            <div class="col-10">
+                                <div class="form-group">
+                                    <label asp-for="Images"></label>
+                                    <input asp-for="Images" class="form-control" accept="image/*">
+                                    <span asp-validation-for="Images" class="text-danger"></span>
+                                </div>
+                                
+                            </div>
+                            <div class="col-5 mr-5">
+                                          
+                                <div class="form-group">
+                                    <label>Ad</label>
+                                    <input asp-for="Name" class="form-control" placeholder="Ad">
+                                    <span asp-validation-for="Name" class="text-danger"></span>
+                                </div>
+                    
+                                <div class="form-group">
+                                    <label>Qiymət</label>
+                                    <input asp-for="Price" class="form-control" placeholder="Qiymet">
+                                    <span asp-validation-for="Price" class="text-danger"></span>
+                                </div>
+                    
+                                <div class="form-group">
+                                    <label>Endirim</label>
+                                    <input asp-for="DisCountRate" class="form-control" placeholder="Endirim">
+                                    <span asp-validation-for="DisCountRate" class="text-danger"></span>
+                                </div>
+                    
+                                <div class="form-group">
+                                    <label>Say</label>
+                                    <input asp-for="Count" class="form-control" placeholder="Say">
+                                    <span asp-validation-for="Count" class="text-danger"></span>
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label>QisaMəlumat</label>
+                                    <textarea asp-for="ShortDescription" class="form-control" placeholder="QisaMelumat" rows="3"></textarea>
+                                    <span asp-validation-for="ShortDescription" class="text-danger"></span>
+                                </div>
+                    
+                                <div class="form-group">
+                                    <label>Seçilmiş</label>
+                                    <input asp-for="IsFeatured" class="form-control" placeholder="Secilmis">
+                                    <span asp-validation-for="IsFeatured" class="text-danger"></span>
+                                </div>
+                    
+                                <div class="form-group">
+                                    <label>Orginal</label>
+                                    <input asp-for="IsOriginal" class="form-control" placeholder="Original">
+                                    <span asp-validation-for="IsOriginal" class="text-danger"></span>
+                                </div>
+                    
+                            </div>
+                                            
+                            <div class="col-5">
+                                                
+                                <div class="form-group">
+                                    <label>Ölçü</label>
+                                    <input asp-for="Size" class="form-control" placeholder="Olcu">
+                                    <span asp-validation-for="Size" class="text-danger"></span>
+                                </div>
+                    
+                                <div class="form-group">
+                                    <label>Kod</label>
+                                    <input asp-for="Code" class="form-control" placeholder="Kod">
+                                    <span asp-validation-for="Code" class="text-danger"></span>
+                                </div>
+                    
+                                <div class="form-group">
+                                    <label asp-for="Star"></label>
+                                    <input asp-for="Star" class="form-control" placeholder="Star">
+                                    <span asp-validation-for="Star" class="text-danger"></span>
+                                </div>
+                    
+                                <div class="form-group">
+                                    <label>Rəng</label>
+                                    <input asp-for="Color" class="form-control" placeholder="Reng">
+                                    <span asp-validation-for="Color" class="text-danger"></span>
+                                </div>
+                                                
+                                <div class="form-group">
+                                    <label>UzunMəlumat</label>
+                                    <textarea asp-for="LongDescription" class="form-control" placeholder="UzunMelumat" rows="3"></textarea>
+                                    <span asp-validation-for="LongDescription" class="text-danger"></span>
+                                </div>
+                    
+                                <div class="form-group">
+                                    <label asp-for="IsNew"></label>
+                                    <input asp-for="IsNew" class="form-control" placeholder="Yeni">
+                                    <span asp-validation-for="IsNew" class="text-danger"></span>
+                                </div>
+                                                
+                    
+                                <div class="form-group">
+                                    <div class="form-group">
+                                        <select name="CategoryId" asp-for="@Model.CategoryId"
+                                                asp-items="@ViewBag.Categories">
+                                        </select>
+                                    </div>
+                                </div>
+                                
+                                <div class="form-group mt-3">
+                                    <div class="form-group">
+                                        <label class="mr-5">Brand</label>
+                                        <select name="BrandId" asp-for="@Model.BrandId"
+                                                asp-items="@ViewBag.Brands">
+                                        </select>
+                                    </div>
+                                </div>
+                                                
+                            </div>
+                        </div>
+                                        
+                        <button type="submit" class="btn btn-success mr-2 create-book mt-3">Dəyiş</button>
+                    
+                    </form>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+

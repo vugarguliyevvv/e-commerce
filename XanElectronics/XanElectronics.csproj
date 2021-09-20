@@ -1,0 +1,268 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>5977df23-c7a6-4d33-8617-233218a84d97</UserSecretsId>
+    <_FunctionsSkipCleanOutput>true</_FunctionsSkipCleanOutput>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Models\" />
+    <Folder Include="Areas\Admin\Pages" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.19" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.19" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    <PackageReference Include="NETCore.MailKit" Version="2.0.3" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.2.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\10.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\11.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\12.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\13.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\14.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\15.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\16.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\17.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\18.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\19.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\20.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\21.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\22.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\23.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\3.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\5.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\6.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\banner\7.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog-post\1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog-post\2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog-post\3.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog-post\4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog-post\5.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog-post\avatar.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\blog-post\large-blog.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\brand\1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\brand\2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\brand\3.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\brand\4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\brand\5.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\04fae0fd-fb5f-4450-8aed-566c9a682b8a4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\0ccaf5c8-bdd9-4053-8248-779ddeacf57e4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\0e5f4723-58b8-46ba-add0-a278cccdf0f17.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\1.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\3.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\3.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\4.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\4c65a7b6-6999-44ce-a40e-db699f962c1c7.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\5.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\5806da68-5e8a-421b-8fe7-9b04393754ee5.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\5f06d30e-be7c-4cba-9ac6-db8e3afa87734.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\6.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\7.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\7d942ff1-8452-43a8-b391-7fedcf54c3d69.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\8.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\8.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\ac4b7764-4a0b-4f98-9868-99b6a99bd2c97.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\b69f8232-ca62-47f9-9f7a-d96442044af38.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\bbeadb0a-4ee3-4ea7-adae-c38df5e06ab97 - Copy.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\category\d5cfe373-857d-48fa-adc6-3b08d1587c294.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\favicon.ico" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\10.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\3.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\5.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\5.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\6.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\7.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\8.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\8.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\9.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\thumb\1.2x.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\thumb\1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\thumb\2.2x.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\thumb\2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\thumb\3.2x.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\thumb\3.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\thumb\4.2x.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\thumb\4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\thumb\5.2x.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\thumb\5.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\thumb\6.2x.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\thumb\6.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\thumb\7.2x.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\hot-deals\thumb\7.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\icon\1.png" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\icon\10.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\icon\10.png" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\icon\11.png" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\icon\12.png" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\icon\2.png" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\icon\3.png" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\icon\4.png" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\icon\5.png" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\icon\6.png" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\icon\apple.png" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\icon\phone.png" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\icon\phone2.png" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\icon\phone3.png" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\icon\play.png" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\logo\france.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\logo\logo-dark.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\logo\logo-white.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\logo\us-flag.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\mega-menu\1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\mega-menu\2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\mega-menu\3.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\mega-menu\4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\modal\1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\new-products\1.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\new-products\1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\new-products\2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\new-products\3.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\new-products\4.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\new-products\4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\new-products\5.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\new-products\6.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\payment\1.png" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\10.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\11.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\12.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\13.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\14.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\15.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\16.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\3.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\5.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\6.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\7.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\8.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\9.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\popular\popular-bg.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\10.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\11.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\12.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\13.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\13e21aa9-abbd-4e1e-9725-a38ebe0e7fa104_gallery.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\14.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\15.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\152f3e4b-90d2-4a2e-ae09-b9812960f2e901_gallery.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\16.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\17.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\18.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\19.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\20.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\21.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\22.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\23.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\24.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\25.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\26.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\27.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\28.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\29.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\3.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\30.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\30.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\30448294-92ff-4fe4-adae-cd5d368704828.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\31.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\32.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\32.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\33.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\34.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\348fb635-f97e-4e41-932b-bb24659127d96.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\35.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\36.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\37.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\38.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\3e1dfba5-6656-49b4-ac36-8275f1fd74d75.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\4aed39d8-e7ee-47d5-8fe3-f768cfafbb4302_gallery.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\5.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\5299897b-e2da-47ea-bd3a-a458f2221bf08.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\5494228b-3ed0-49a0-a2e8-e07c8d97b21f05_gallery.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\54a8fd04-d8ea-453b-84c9-861a1d65f9aa4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\5d037f7c-30fb-400c-9bfb-633d9ef9d96f8 - Copy.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\6.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\659576af-150e-4945-af0c-b386cac39c977.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\6976cdc0-9dfc-46fb-affa-881b0712aed13.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\7.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\8.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\82083746-dfeb-4019-937a-c0ab7afa11827.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\9.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\a8087b10-a202-406d-828f-22980b37d7fc2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\b23f3496-0aa2-4b7f-9999-a42871157aba7 - Copy.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\b48d14e5-f2c9-457e-9e97-380f136de4d103_gallery.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\bec529a5-f89f-4971-a635-e115d3f768c87 - Copy.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\product\d9ce039f-77c7-4c03-a479-93181e6003b606_gallery.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\single-product\1.2x.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\single-product\1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\single-product\2.2x.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\single-product\2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\single-product\3.2x.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\single-product\3.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\single-product\4.2x.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\single-product\4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\slide1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\slide2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\slide3.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\slide4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\slide5.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\slide6.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\slide7.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\slide8.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\1.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\10.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\10.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\11.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\11.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\12.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\12.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\13.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\13.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\2.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\3.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\3.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\4.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\5.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\5.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\6.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\6.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\7.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\7.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\8.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\8.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\9.1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\slider\thumb\9.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\assets\img\stodio.jpg" />
+  </ItemGroup>
+
+</Project>

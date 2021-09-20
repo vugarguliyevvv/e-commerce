@@ -1,0 +1,809 @@
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.exe
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.deps.json
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.runtimeconfig.json
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.runtimeconfig.dev.json
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.pdb
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.Views.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.Views.pdb
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.csprojAssemblyReference.cache
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.AssemblyInfoInputs.cache
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.AssemblyInfo.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.csproj.CoreCompileInputs.cache
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorAssemblyInfo.cache
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorAssemblyInfo.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\staticwebassets\XanElectronics.StaticWebAssets.Manifest.cache
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\staticwebassets\XanElectronics.StaticWebAssets.xml
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\scopedcss\bundle\XanElectronics.styles.css
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.TagHelpers.input.cache
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.TagHelpers.output.cache
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorCoreGenerate.cache
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Create.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Delete.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Index.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Update.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Create.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Index.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Update.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Update.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Message\Index.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\DeletedList.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Detail.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Update.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sale\Detail.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sale\FinishedSales.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sale\Index.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_adminLayout.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_partialAdminProduct.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_partialValidation.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\Create.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\Delete.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\Index.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\Update.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Subscription\Index.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Basket\BasketSale.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Basket\Index.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_partialPagination.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_partialProduct.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_partialSubscribe.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Detail.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorTargetAssemblyInfo.cache
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorTargetAssemblyInfo.cs
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.Views.pdb
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.csproj.CopyComplete
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.dll
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.pdb
+C:\Users\orkhan\OneDrive\Desktop\my projects\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.genruntimeconfig.cache
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\appsettings.json
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.exe
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.deps.json
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.runtimeconfig.json
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.runtimeconfig.dev.json
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.pdb
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.Views.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.Views.pdb
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.csprojAssemblyReference.cache
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.AssemblyInfoInputs.cache
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.AssemblyInfo.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.csproj.CoreCompileInputs.cache
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.MvcApplicationPartsAssemblyInfo.cache
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorAssemblyInfo.cache
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorAssemblyInfo.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\staticwebassets\XanElectronics.StaticWebAssets.Manifest.cache
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\staticwebassets\XanElectronics.StaticWebAssets.xml
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\scopedcss\bundle\XanElectronics.styles.css
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.TagHelpers.input.cache
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.TagHelpers.output.cache
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorCoreGenerate.cache
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Create.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Delete.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Index.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Update.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Create.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Index.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Update.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Update.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Message\Index.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\DeletedList.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Detail.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Update.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sale\Detail.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sale\FinishedSales.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sale\Index.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_adminLayout.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_partialAdminProduct.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_partialValidation.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\Create.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\Delete.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\Index.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\Update.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Subscription\Index.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Basket\BasketSale.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Basket\Index.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_partialPagination.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_partialProduct.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_partialSubscribe.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Detail.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorTargetAssemblyInfo.cache
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorTargetAssemblyInfo.cs
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.Views.pdb
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.csproj.CopyComplete
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.dll
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.pdb
+D:\projects1\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.genruntimeconfig.cache
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.exe
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.deps.json
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.runtimeconfig.json
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.pdb
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.Views.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.Views.pdb
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.AssemblyInfo.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\staticwebassets\XanElectronics.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\staticwebassets\XanElectronics.StaticWebAssets.xml
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\scopedcss\bundle\XanElectronics.styles.css
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.TagHelpers.input.cache
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.TagHelpers.output.cache
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorCoreGenerate.cache
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Create.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Delete.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Update.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Create.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Update.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Update.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Message\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\DeletedList.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Detail.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Update.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sale\Detail.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sale\FinishedSales.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sale\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_adminLayout.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_partialAdminProduct.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_partialValidation.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\Create.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\Delete.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\Update.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Subscription\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Basket\BasketSale.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Basket\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_partialPagination.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_partialProduct.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_partialSubscribe.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Detail.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.Views.pdb
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.csproj.CopyComplete
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.dll
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.pdb
+C:\Users\Asus\Desktop\xanelectronics\XanElectronics\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.genruntimeconfig.cache
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.exe
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.deps.json
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.runtimeconfig.json
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.runtimeconfig.dev.json
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.pdb
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.Views.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\XanElectronics.Views.pdb
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.AssemblyInfo.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\staticwebassets\XanElectronics.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\staticwebassets\XanElectronics.StaticWebAssets.xml
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\scopedcss\bundle\XanElectronics.styles.css
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.TagHelpers.input.cache
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.TagHelpers.output.cache
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorCoreGenerate.cache
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Create.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Delete.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Index.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Update.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Create.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Index.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Update.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Update.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Message\Index.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\DeletedList.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Detail.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Update.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sale\Detail.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sale\FinishedSales.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Sale\Index.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_adminLayout.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_partialAdminProduct.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_partialValidation.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\Create.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\Delete.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\Index.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Slider\Update.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Subscription\Index.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Basket\BasketSale.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Basket\Index.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_partialPagination.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_partialProduct.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_partialSubscribe.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Detail.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.Views.pdb
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.csproj.CopyComplete
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.dll
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.pdb
+C:\Users\User\Desktop\KhanElectronics-master\XanElectronics\obj\Debug\netcoreapp3.1\XanElectronics.genruntimeconfig.cache

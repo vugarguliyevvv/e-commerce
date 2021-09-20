@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Product>
+
+@foreach (var product in Model)
+{
+    <a class="dropdown-item"
+       asp-area="Admin" asp-controller="Product" asp-action="Detail" asp-route-id="@product.Id">
+        <div class="row">
+            <div class="col-2 item-thumbnail" style="min-width:120px;">
+                <img src="~/assets/img/product/@product.ProductImages.ElementAt(0).ImageUrl" alt="image" style="width:50px; height:50px" class="profile-pic">
+            </div>
+            <div class="col-2 item-content flex-grow" style="min-width:120px">
+                <h6 class="ellipsis font-weight-normal" style="padding-top:15px;">
+                    @product.Name
+                </h6>
+            </div>
+            <div class="col-2" style="min-width:120px;">
+                <h6 class="ellipsis font-weight-normal" style="padding-top:15px;">
+                    $ @product.ResultPrice.ToString("C2")
+                </h6>
+            </div>
+        </div>
+
+    </a>
+}
